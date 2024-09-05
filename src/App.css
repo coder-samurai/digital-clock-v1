@@ -1,0 +1,74 @@
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: flex;flex-direction: column;flex-wrap: wrap;justify-content: space-around;align-items: center;align-content: center;
+    background-color: #6a040f;
+}
+
+.TitleContainer {
+    padding: 5px 30px;
+    border: 5px solid #9d0208;
+    background-color: #faa307;
+    border-radius: 35px 75px 56px 25px;
+    -webkit-box-shadow: 8px 8px 0px 8px #370617;
+    -moz-box-shadow: 8px 8px 0px 8px #370617;
+    box-shadow: 8px 8px 0px 8px #370617;
+}
+
+.TitleContainer h1 {
+    color: #9d0208;
+    font-size: 50px;
+}
+
+.DigitalClockContainer {
+    background-color: #9d0208;
+    padding: 15px 30px;
+    border: 5px solid #faa307;
+    border-radius: 62px 47px 87px 48px;
+    -webkit-box-shadow: -8px -8px 0px 4px #370617;
+    -moz-box-shadow: -8px -8px 0px 4px #370617;
+    box-shadow: -8px -8px 0px 4px #370617;
+}
+
+.ClockContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ClockText h1 {
+    font-size: 100px;
+    color: #faa307;
+    
+}
+
+.AMPMContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 18px;
+}
+
+
+
+.AboutContainer {
+    padding: 10px 30px;
+    border: 5px solid #faa307;
+    background-color: #9d0208;
+    border-radius: 20px
+}
+
+.AboutContainer h1 {
+    color: #faa307;
+    font-size: 40px;
+}
+
+.madeby {
+    margin-right: 10px;
+}
+
+.link a {
+    text-decoration: none;
+    color: #03071e;
+}
