@@ -7,8 +7,8 @@
 
 .TitleContainer {
     padding: 5px 30px;
-    border: 5px solid #9d0208;
-    background-color: #faa307;
+    border: 5px solid #faa307;
+    background-color: #9d0208;
     border-radius: 35px 75px 56px 25px;
     -webkit-box-shadow: 8px 8px 0px 8px #370617;
     -moz-box-shadow: 8px 8px 0px 8px #370617;
@@ -21,9 +21,9 @@
 }
 
 .DigitalClockContainer {
-    background-color: #faa307;
+    background-color: #9d0208;
     padding: 15px 30px;
-    border: 5px solid #9d0208;
+    border: 5px solid #faa307;
     border-radius: 62px 47px 87px 48px;
     -webkit-box-shadow: -8px -8px 0px 4px #370617;
     -moz-box-shadow: -8px -8px 0px 4px #370617;
